@@ -1,1 +1,1 @@
-content in my readme
+Starting to code today, so cool
